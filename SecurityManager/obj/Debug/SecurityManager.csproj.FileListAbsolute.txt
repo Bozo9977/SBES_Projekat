@@ -1,0 +1,8 @@
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.RoleConfigFile.resources
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\SecurityManager\obj\Debug\SecurityManager.pdb

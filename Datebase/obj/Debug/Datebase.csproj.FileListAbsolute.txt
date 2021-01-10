@@ -1,0 +1,8 @@
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\bin\Debug\Datebase.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\bin\Debug\Datebase.pdb
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.csprojAssemblyReference.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.Events.resources
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.csproj.GenerateResource.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.csproj.CoreCompileInputs.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\Datebase\obj\Debug\Datebase.pdb

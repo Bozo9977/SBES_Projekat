@@ -1,0 +1,12 @@
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\Datebase.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\ServiceContracts.dll
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\Datebase.pdb
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\bin\Debug\ServiceContracts.pdb
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\Bozo\Desktop\SBES_Projekat\LoadBalancer\obj\Debug\LoadBalancer.pdb
